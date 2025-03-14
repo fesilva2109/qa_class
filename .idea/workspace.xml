@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="212413c9-7a0c-4938-bf2e-16e92df2dcd0" name="Changes" comment="Testando" />
+    <list default="true" id="212413c9-7a0c-4938-bf2e-16e92df2dcd0" name="Changes" comment="Utiliando testeDividir" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,21 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestQa.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/labsfiap/Desktop/jUnit&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/labsfiap/Desktop/jUnit/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.main.executor": "Run",
+    "JUnit.CalculadoraTeste.executor": "Run",
+    "JUnit.TestQa.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/labsfiap/Desktop/jUnit",
+    "onboarding.tips.debug.path": "C:/Users/labsfiap/Desktop/jUnit/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\labsfiap\Desktop\jUnit\src\main\java" />
@@ -92,7 +93,47 @@
       <option name="project" value="LOCAL" />
       <updated>1741914728691</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Iniciando com o BeforeEach">
+      <option name="closed" value="true" />
+      <created>1741915231467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741915231467</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Utiliando testeSomar">
+      <option name="closed" value="true" />
+      <created>1741915332293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741915332293</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Utiliando testeSubtrair">
+      <option name="closed" value="true" />
+      <created>1741915364711</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741915364711</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Utiliando testeMultiplicar">
+      <option name="closed" value="true" />
+      <created>1741915417871</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741915417871</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Utiliando testeDividir">
+      <option name="closed" value="true" />
+      <created>1741915450946</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741915450946</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -100,7 +141,12 @@
     <MESSAGE value="Alterando pom.xml e criando classe testQa" />
     <MESSAGE value="Criando método testAssertArrayEquals" />
     <MESSAGE value="Testando" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testando" />
+    <MESSAGE value="Iniciando com o BeforeEach" />
+    <MESSAGE value="Utiliando testeSomar" />
+    <MESSAGE value="Utiliando testeSubtrair" />
+    <MESSAGE value="Utiliando testeMultiplicar" />
+    <MESSAGE value="Utiliando testeDividir" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utiliando testeDividir" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
