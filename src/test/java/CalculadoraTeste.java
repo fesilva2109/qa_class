@@ -31,6 +31,13 @@ public class CalculadoraTeste {
         int resultado = calc.multiplicar(a,b);
         assertEquals(a*b,resultado);
     }
+    @Test
+    void testDividir(){
+        int a =3;
+        int b= 2;
+        int resultado = calc.dividir(a,b);
+        assertEquals(a/b,resultado);
+    }
 
 
 }
