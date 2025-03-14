@@ -22,7 +22,15 @@ public class CalculadoraTeste {
         int a =3;
         int b= 2;
         int resultado = calc.subtrair(a,b);
-        assertEquals(a+b,resultado);
+        assertEquals(a-b,resultado);
     }
+    @Test
+    void testMultiplicar(){
+        int a =3;
+        int b= 2;
+        int resultado = calc.multiplicar(a,b);
+        assertEquals(a*b,resultado);
+    }
+
 
 }
