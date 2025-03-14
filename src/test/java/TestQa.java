@@ -18,6 +18,10 @@ public class TestQa {
     public void testAssertNull(){
         assertNull(null);
     }
+    @Test
+    public void testAssertNotNull(){
+        assertNotNull(new Object());
+    }
 
 
 }
