@@ -11,8 +11,13 @@ public class TestQa {
 
     }
     @Test
-    public void testAssertEquals(){
-        assertEquals('text','text');
+    public void testAssertEquals() {
+        assertEquals("text", "text");
+    }
+
+    @Test
+    public void testAssertFalse() {
+        assertFalse("text".equals("outro texto"));
     }
     @Test
     public void testAssertNull(){

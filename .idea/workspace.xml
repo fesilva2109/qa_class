@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="212413c9-7a0c-4938-bf2e-16e92df2dcd0" name="Changes" comment="Utiliando testeDividir" />
+    <list default="true" id="212413c9-7a0c-4938-bf2e-16e92df2dcd0" name="Changes" comment="Criando testAssertSame" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +133,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741915450946</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Criando testAssertNull">
+      <option name="closed" value="true" />
+      <created>1741915534923</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741915534923</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Criando testAssertNotNull">
+      <option name="closed" value="true" />
+      <created>1741915583011</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741915583011</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Criando testAssertSame">
+      <option name="closed" value="true" />
+      <created>1741915734289</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741915734289</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,7 +170,10 @@
     <MESSAGE value="Utiliando testeSubtrair" />
     <MESSAGE value="Utiliando testeMultiplicar" />
     <MESSAGE value="Utiliando testeDividir" />
-    <option name="LAST_COMMIT_MESSAGE" value="Utiliando testeDividir" />
+    <MESSAGE value="Criando testAssertNull" />
+    <MESSAGE value="Criando testAssertNotNull" />
+    <MESSAGE value="Criando testAssertSame" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando testAssertSame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
