@@ -22,6 +22,11 @@ public class TestQa {
     public void testAssertNotNull(){
         assertNotNull(new Object());
     }
+    @Test
+    public void testAssertSame(){
+        Integer aNumber = Integer.valueOf(765);
+        assertSame(aNumber,aNumber);
+    }
 
 
 }
