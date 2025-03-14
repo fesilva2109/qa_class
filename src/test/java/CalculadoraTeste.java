@@ -17,5 +17,12 @@ public class CalculadoraTeste {
         int resultado = calc.somar(a,b);
         assertEquals(a+b,resultado);
     }
+    @Test
+    void testSubtrair(){
+        int a =3;
+        int b= 2;
+        int resultado = calc.subtrair(a,b);
+        assertEquals(a+b,resultado);
+    }
 
 }
